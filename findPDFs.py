@@ -3,8 +3,10 @@ import requests
 import sys
 import re
 
+"""
 # A test to cofirm the command line argument was correctly passed in
 print("URI requested: ", sys.argv[1])
+"""
 
 response = requests.get(sys.argv[1])
 
