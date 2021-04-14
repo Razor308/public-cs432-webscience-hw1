@@ -1,3 +1,6 @@
+# Below is an assignment for ODU's CS432 Web Science Course.
+# The completed report written in LaTeX can be veiwed [here](HW1_report.pdf)
+
 # Homework 1 - Web Science Intro
 **Due:** Sunday, September 20, 2020 by 11:59pm
 
